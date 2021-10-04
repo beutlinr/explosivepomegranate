@@ -12,3 +12,4 @@
 9. As a student of the FHNW, I want to stay logged in the webinterface when I close the browser window. 
 10. As a Librarian, I want to be able to add new books into the system so that students of the FHNW see what is newly available. 
 11. As a Librarian, I want to have an overview over books that are overdue to return so that I can remind them that they need to return the book. 
+12. As a Librarian, I want to see the dates of borrowed books
