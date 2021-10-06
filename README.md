@@ -1,6 +1,7 @@
 # ExplosivePomegranate
 
 ### Use Case diagram
+https://lucid.app/lucidchart/4c7d5f12-b21d-4bff-988e-84bd686c2cd3/edit?viewport_loc=108%2C-247%2C1111%2C777%2C0_0&invitationId=inv_3a662d3c-c919-4256-8e0d-2f78abadef9b
 
 ### User Stories
 
