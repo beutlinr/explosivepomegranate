@@ -48,3 +48,6 @@ https://lucid.app/lucidchart/invitations/accept/inv_dc1b4624-c4b7-4b75-be56-0053
 ### Mockup refined
 
 ## DB structure
+https://lucid.app/lucidchart/7dc561be-ccba-475d-8fea-9955b0b630bb/edit?viewport_loc=-168%2C-223%2C2130%2C1129%2C0_0&invitationId=inv_95025269-9fc5-4c7f-b6da-3e6556c2a036
+![DB Structure](documentation-resources/DB-Diagram.png?raw=true "Title")
+
