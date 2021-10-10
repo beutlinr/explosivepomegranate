@@ -39,7 +39,7 @@ https://lucid.app/lucidchart/4c7d5f12-b21d-4bff-988e-84bd686c2cd3/edit?viewport_
 
 ### Class diagram
 https://lucid.app/lucidchart/invitations/accept/inv_dc1b4624-c4b7-4b75-be56-0053b5493778?viewport_loc=-8%2C1248%2C2048%2C1085%2C0_0
-![Class Diagram](documentation-resources/ExplosivePomegranade.png?raw=true "Title")
+![Class Diagram](documentation-resources/Class-Diagram.png?raw=true "Title")
 
 ##Mockup
 ### Mockup draft
