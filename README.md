@@ -44,7 +44,7 @@ https://lucid.app/lucidchart/invitations/accept/inv_dc1b4624-c4b7-4b75-be56-0053
 ##Mockup
 ### Mockup draft
 Mockup draft from Sonja
-![Mockup draft]("C:\Users\nussb\Desktop\FHNW_BIT\5_Semester\Internet Technology\Mockup draft.png")
+![Class Diagram](documentation-resources/Mockup-draft.png?raw=true "Title")
 
 ### Mockup refined
 
