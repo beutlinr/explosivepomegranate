@@ -43,7 +43,8 @@ https://lucid.app/lucidchart/invitations/accept/inv_dc1b4624-c4b7-4b75-be56-0053
 
 ##Mockup
 ### Mockup draft
-@Sonja, maybe add the image of your draft into the folder "documentation-resources" and add it like I added the other images
+Mockup draft from Sonja
+![Mockup draft]("C:\Users\nussb\Desktop\FHNW_BIT\5_Semester\Internet Technology\Mockup draft.png")
 
 ### Mockup refined
 
